@@ -8,7 +8,7 @@ Welcome to my technical knowledge repository. This space serves as an organized 
 * ### [Backend Roadmap]
 ## 🗺️ 1. Career & Professional Growth
 
-* ### [Clean Code and Software Design Principles](./Clean Code and Software Design Principles)
+* ### [Clean Code and Software Design Principles](Clean Code and Software Design Principles.md)
     * **Description:** A curated repository of essential articles on clean code practices and software design principles.
     Covers foundational topics from meaningful naming to DRY, KISS, and advanced SOLID architectural patterns.
     Serves as a practical reference guide to help developers build readable, scalable, and maintainable software.
