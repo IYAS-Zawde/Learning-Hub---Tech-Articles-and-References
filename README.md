@@ -5,30 +5,29 @@ Welcome to my technical knowledge repository. This space serves as an organized 
 ---
 
 ## INDEX:
-* ### [Backend Roadmap]
-## 🗺️ 1. Career & Professional Growth
+## 1. Career & Professional Growth
 
-* ### [Clean Code and Software Design Principles](Clean Code and Software Design Principles.md)
+* ### [Clean Code and Software Design Principles](./Clean%20Code%20and%20Software%20Design%20Principles.md)
     * **Description:** A curated repository of essential articles on clean code practices and software design principles.
     Covers foundational topics from meaningful naming to DRY, KISS, and advanced SOLID architectural patterns.
     Serves as a practical reference guide to help developers build readable, scalable, and maintainable software.
 
 ---
 
-## 🏗️ 2. System Design & Distributed Systems
+## 2. System Design & Distributed Systems
 
-* ### [Microservices Communication: HTTP vs. Message Brokers](./Microservices Communication Patterns)
+* ### [Microservices Communication: HTTP vs. Message Brokers](./Microservices%20Communication%20Patterns.md)
     * **Description:** An architectural breakdown comparing **Synchronous (REST/gRPC)** vs. **Asynchronous (RabbitMQ/Kafka)** communication paradigms in distributed systems. It features e-commerce real-world scenarios, complete trade-off matrices, and a system design matrix outlining when to employ each pattern.
 
 ---
 
-## 🤖 3. AI Engineering & Semantic Data Architecture
+## 3. AI Engineering & Semantic Data Architecture
 
 @TODO
 
 ---
 
-## 🚀 How to Navigate this Hub
+## How to Navigate this Hub
 
 @TODO
 ---
