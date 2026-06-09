@@ -31,7 +31,10 @@ Welcome to my technical knowledge repository. This space serves as an organized 
 @TODO
 
 ---
-
+## 5. Troubleshooting
+* ### [Windows Registry Guide](./Windows%20Registry%20Guide.md.md)
+    * **Description:** A simplified guide explaining the structure of the Windows Registry and its core components as a centralized database for managing software configurations. It illustrates how the registry stores operating system settings and user preferences, while highlighting how to safely use it to clean orphaned keys and resolve persistent installation conflicts.
+---
 ## How to Navigate this Hub
 
 @TODO
