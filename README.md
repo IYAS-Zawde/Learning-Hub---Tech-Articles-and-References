@@ -28,11 +28,12 @@ Welcome to my technical knowledge repository. This space serves as an organized 
 ---
 ## 4. Backend
 
-@TODO
+* ### [OpenAPI and Swagger Guide](./OpenAPI%20and%20Swagger%20Guide.md)
+     * **Description:** The distinction between OpenAPI (spec) and Swagger (tooling) and key reasons to adopt the standard—contract-driven development, automated/dynamic documentation, improved QA/testing via Swagger UI, and automated client code generation—framing the change as an architectural decision to improve API lifecycle management.
 
 ---
 ## 5. Troubleshooting
-* ### [Windows Registry Guide](./Windows%20Registry%20Guide.md.md)
+* ### [Windows Registry Guide](./Windows%20Registry%20Guide.md)
     * **Description:** A simplified guide explaining the structure of the Windows Registry and its core components as a centralized database for managing software configurations. It illustrates how the registry stores operating system settings and user preferences, while highlighting how to safely use it to clean orphaned keys and resolve persistent installation conflicts.
 ---
 ## How to Navigate this Hub
