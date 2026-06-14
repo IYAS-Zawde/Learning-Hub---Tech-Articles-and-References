@@ -30,7 +30,8 @@ Welcome to my technical knowledge repository. This space serves as an organized 
 
 * ### [OpenAPI and Swagger Guide](./OpenAPI%20and%20Swagger%20Guide.md)
      * **Description:** The distinction between OpenAPI (spec) and Swagger (tooling) and key reasons to adopt the standard—contract-driven development, automated/dynamic documentation, improved QA/testing via Swagger UI, and automated client code generation—framing the change as an architectural decision to improve API lifecycle management.
-
+* ### [ORM Technical Documentation](./ORM%20Technical%20Documentation.md)
+    * **Description:** A technical documentation providing an architectural overview of Object-Relational Mapping (ORM) technology and its structural lifecycle. It details foundational implementation workflows, execution paradigms, and critical best practices such as mitigating the $N+1$ query problem and handling field projections. Furthermore, it outlines strategic boundaries, specifying high-throughput and data-heavy scenarios where the abstraction layer should be bypassed in favor of raw database execution.
 ---
 ## 5. Troubleshooting
 * ### [Windows Registry Guide](./Windows%20Registry%20Guide.md)
