@@ -33,12 +33,17 @@ Welcome to my technical knowledge repository. This space serves as an organized 
 
 * ### [OpenAPI and Swagger Guide](./OpenAPI%20and%20Swagger%20Guide.md)
      * **Description:** The distinction between OpenAPI (spec) and Swagger (tooling) and key reasons to adopt the standard—contract-driven development, automated/dynamic documentation, improved QA/testing via Swagger UI, and automated client code generation—framing the change as an architectural decision to improve API lifecycle management.
-* ### [ORM Technical Documentation](./ORM%20Technical%20Documentation.md)
-    * **Description:** A technical documentation providing an architectural overview of Object-Relational Mapping (ORM) technology and its structural lifecycle. It details foundational implementation workflows, execution paradigms, and critical best practices such as mitigating the $N+1$ query problem and handling field projections. Furthermore, it outlines strategic boundaries, specifying high-throughput and data-heavy scenarios where the abstraction layer should be bypassed in favor of raw database execution.
 
-* ### [Database Migration - Dev vs Enterprise](./Database%20Migration%20-%20Dev%20vs%20Enterprise.md)
-    * **Description:** This article explores database migration by distinguishing between its two main scopes: the daily Application/Schema Migration managed by backend developers using version control (Git), and the large-scale Enterprise/System Migration executed by cross-functional teams to transfer terabytes of data during cloud shifts or modernizations. It outlines critical implementation strategies—ranging from high-risk Big Bang approaches to complex, Zero-Downtime Dual Reading/Writing and Hybrid models—emphasizing that daily development habits directly impact the success of massive institutional data transitions.
+* ### Databases:
+   * ### [ORM Technical Documentation](./ORM%20Technical%20Documentation.md)
+       * **Description:** A technical documentation providing an architectural overview of Object-Relational Mapping (ORM) technology and its structural lifecycle. It details foundational implementation workflows, execution paradigms, and critical best practices such as mitigating the $N+1$ query problem and handling field projections. Furthermore, it outlines strategic boundaries, specifying high-throughput and data-heavy scenarios where the abstraction layer should be bypassed in favor of raw database execution.
+   
+   * ### [Database Migration - Dev vs Enterprise](./Database%20Migration%20-%20Dev%20vs%20Enterprise.md)
+       * **Description:** This article explores database migration by distinguishing between its two main scopes: the daily Application/Schema Migration managed by backend developers using version control (Git), and the large-scale Enterprise/System Migration executed by cross-functional teams to transfer terabytes of data during cloud shifts or modernizations. It outlines critical implementation strategies—ranging from high-risk Big Bang approaches to complex, Zero-Downtime Dual Reading/Writing and Hybrid models—emphasizing that daily development habits directly impact the success of massive institutional data transitions.
 
+* ### Authentication:
+   * ### [HTTP Basic Auth to Cookies](./HTTP%20Basic%20Auth%20to%20Cookies.md)
+       * **Description:** An article explores the architectural evolution of web session management, tracing the transition from HTTP Basic Authentication to Cookie-based systems. It explains how modern systems address the stateless nature of the HTTP protocol while highlighting the structural flaws of legacy methods and modern security challenges like CSRF. It is tailored for developers and software engineers interested in web infrastructure and cyber security.
 ---
 ## 5. Troubleshooting
 * ### [Windows Registry Guide](./Windows%20Registry%20Guide.md)
