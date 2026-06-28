@@ -46,6 +46,8 @@ Welcome to my technical knowledge repository. This space serves as an organized 
        * **Description:** An article explores the architectural evolution of web session management, tracing the transition from HTTP Basic Authentication to Cookie-based systems. It explains how modern systems address the stateless nature of the HTTP protocol while highlighting the structural flaws of legacy methods and modern security challenges like CSRF. It is tailored for developers and software engineers interested in web infrastructure and cyber security.
    * ### [OAuth and OpenID](./OAuth%20and%20OpenID.md)
        * **Description:** An article clarifies the common confusion between OAuth 2.0, designed for delegation and authorization, and OpenID Connect (OIDC), the identity layer built on top of it for authentication. By using a real-world hotel analogy, it explains the selection criteria for each protocol, their standard programmatic implementation steps, and the ready-to-use libraries available for developers.
+   * ### [JWT and Token Authentication](./JWT%20and%20Token%20Authentication.md)
+     * **Description:** This article clarifies that the relationship between Token Authentication and JWT is one of concept versus implementation; the former represents the architectural pattern of using tokens to secure sessions, while the latter is a self-contained standard used to execute this pattern statelessly. The text recommends traditional (Opaque) tokens for high-security applications like banking that demand instant session revocation, whereas JWT is highly recommended for microservices and distributed systems to achieve maximum scalability and performance.  
 ---
 ## 5. Troubleshooting
 * ### [Windows Registry Guide](./Windows%20Registry%20Guide.md)
