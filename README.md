@@ -41,9 +41,11 @@ Welcome to my technical knowledge repository. This space serves as an organized 
    * ### [Database Migration - Dev vs Enterprise](./Database%20Migration%20-%20Dev%20vs%20Enterprise.md)
        * **Description:** This article explores database migration by distinguishing between its two main scopes: the daily Application/Schema Migration managed by backend developers using version control (Git), and the large-scale Enterprise/System Migration executed by cross-functional teams to transfer terabytes of data during cloud shifts or modernizations. It outlines critical implementation strategies—ranging from high-risk Big Bang approaches to complex, Zero-Downtime Dual Reading/Writing and Hybrid models—emphasizing that daily development habits directly impact the success of massive institutional data transitions.
 
-* ### Authentication:
+* ### Authentication and Authorization:
    * ### [HTTP Basic Auth to Cookies](./HTTP%20Basic%20Auth%20to%20Cookies.md)
        * **Description:** An article explores the architectural evolution of web session management, tracing the transition from HTTP Basic Authentication to Cookie-based systems. It explains how modern systems address the stateless nature of the HTTP protocol while highlighting the structural flaws of legacy methods and modern security challenges like CSRF. It is tailored for developers and software engineers interested in web infrastructure and cyber security.
+   * ### [OAuth and OpenID](./OAuth%20and%20OpenID.md)
+       * **Description:** An article clarifies the common confusion between OAuth 2.0, designed for delegation and authorization, and OpenID Connect (OIDC), the identity layer built on top of it for authentication. By using a real-world hotel analogy, it explains the selection criteria for each protocol, their standard programmatic implementation steps, and the ready-to-use libraries available for developers.
 ---
 ## 5. Troubleshooting
 * ### [Windows Registry Guide](./Windows%20Registry%20Guide.md)
